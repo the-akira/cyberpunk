@@ -26,7 +26,12 @@ h1, h2, h3, h4, a, p {
 
 .date {
     color: #00e600;
+    font-family: 'VT323', serif;
     font-size: 15pt;
+}
+
+.cor-link:hover {
+    color: #00e600;
 }
 
 .save {
@@ -58,5 +63,13 @@ h1, h2, h3, h4, a, p {
 }
 
 .post-fonte {
-    font-size: 22pt;
+    font-size: 25pt;
+}
+
+.titulo-detalhes{
+    font-size: 30pt;
+}
+
+.post-detalhes{
+    font-size: 25pt;
 }
