@@ -51,6 +51,10 @@ h1, h2, h3, h4, a, p {
 
 .post {
     margin-bottom: 70px;
+    border-color: #00e600;
+    border-style: solid;
+    border-width: 1.2px;
+    padding-left: 30px;
 }
 
 .post h2 a, .post h2 a:visited {
@@ -72,4 +76,8 @@ h1, h2, h3, h4, a, p {
 
 .post-detalhes{
     font-size: 25pt;
+}
+
+textarea {
+    resize: none;
 }
