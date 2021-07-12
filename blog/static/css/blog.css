@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+}
+
+.page-header {
+    background-color: black;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    border-bottom: 1px solid #00e600;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #00e600;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4, a, p {
+    font-family: 'VT323', serif;
+    color: #00e600;
+}
+
+.date {
+    color: #00e600;
+    font-family: 'VT323', serif;
+    font-size: 15pt;
+}
+
+.cor-link:hover {
+    color: #00e600;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #00e600;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    border-color: #00e600;
+    border-style: solid;
+    border-width: 1.2px;
+    padding-left: 30px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: black;
+}
+
+.titulo-fonte{
+    font-size: 30pt;
+    color: black;
+}
+
+.post-fonte {
+    font-size: 25pt;
+}
+
+.titulo-detalhes{
+    font-size: 30pt;
+}
+
+.post-detalhes{
+    font-size: 25pt;
+}
+
+textarea {
+    resize: none;
+}
